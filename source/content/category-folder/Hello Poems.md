@@ -1,6 +1,6 @@
 # 2026
 
-**Sep 22** [[Epoch]]
+**Sep 22** [[Media/GitHub/hello-poetry/source/content/category-folder/Poetry/Epoch]]
 
 **Aug 09** [[Æclipse]]
 
@@ -331,6 +331,8 @@
 **Mar 2020** [[Interruption]]
 
 **Feb 2020** [[I Could Feel Worse]]
+
+**Feb 2020** [[Seven Fridays Into 2020]]
 
 **Jan 2020** [[Art Is The Loaded Weapon of The Future]]
 
@@ -818,8 +820,6 @@
 
 **Dec 2015** [[Archival Amnesia]]
 
-**Dec 2015** [[Metaphysical Definitions]]
-
 **Dec 2015** [[Oneironmancy]]
 
 **Dec 2015** [[Exïsthesia]]
@@ -873,6 +873,8 @@
 **Jun 2015** [[Content (In One's Own Determination)]]]
 
 **Jun 2015** [[Elucidation On Hallucinogenesis (Psyché Wandering)]]
+
+**Jun 2015** [[Summer Solstice (2K15) In Westmeath]]
 
 **May 2015** [[Compulsion, A Head-Fuck]]
 
@@ -1348,68 +1350,42 @@
 # anachronist poems
 ## advice
 [[Advice For Nightclubs And Pubs]]
-
 [[For The Scientist, Advice]]
 
 ## bad taste
 [[The Revelator]]
 
 ## ill-health
+[[Untitled]]
 [[I'm Untitled Too]]
-
 [[I Untitled Th(r)ee]]
-
 [[We Untitled (F)our Past]]
-
 [[Home For Misanthropes]]
-
 [[Soothing My Bruised Psyche]]
 
 ## questionably-written
 [[A Stolen Breath Of Relief]]
-
 [[Adjudicating Faith]]
-
 [[Bathe]]
-
 [[Bleached Immolation]]
-
 [[Carnival]]
-
 [[Disequalibrium]]
-
 [[Enumerations Of The Ecstatic (How I Treat With Depression(slash)Soul Meandering)]]
-
 [[Estranged]]
-
 [[Hereafter]]
-
 [[Pathogenic Vocality]]
-
 [[Put Your Hood Up]]
-
 [[Mediation|Mediation]]
-
 [[I'd Love (Not To Judge)]]
-
 [[Existential Tension]]
-
 [[Metaphysical Transgression]]
-
 [[Of Two Minds]]
-
 [[Offering]]
-
 [[Omnipresent Glia]]
-
 [[Over;Under-{De;In}flated]]
-
 [[The Good, The Bad, And The Psychotic]]
-
 [[Thread In The Seems]]
-
 [[Your Moments]]
-
 [[Zenlightenment]]
 
 # end

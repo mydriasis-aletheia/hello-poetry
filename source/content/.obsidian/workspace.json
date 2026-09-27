@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Hello Poems.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello Poems"
+              "title": "index"
             }
           }
         ]
@@ -174,8 +174,10 @@
   },
   "active": "c3306c6a4866c3eb",
   "lastOpenFiles": [
-    "category-folder/Poetry/Epoch.md",
     "category-folder/Hello Poems.md",
+    "category-folder/Poetry/Untitled.md",
+    "category-folder/Poetry/Letter from Menoeceus.md",
+    "category-folder/Poetry/Epoch.md",
     "index.md",
     "Hurricane.gif",
     "category-folder/Poetry/Zenlightenment.md",
@@ -199,8 +201,6 @@
     "category-folder/Poetry/Yearning For A Return To Normality.md",
     "category-folder/Poetry/XOR.md",
     "category-folder/Poetry/X Marks The Spot (Venturous Prelude).md",
-    "category-folder/Poetry/X Is The New Y (Venturous Conclusion).md",
-    "category-folder/Poetry/World Of Narc.md",
     "category-folder/Poetry",
     "category-folder"
   ]
