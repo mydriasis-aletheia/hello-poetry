@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d8837e6263008e3",
+            "id": "94ed6a5c6d4a580f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Poetry.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poetry"
+              "title": "index"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Poetry.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Poetry.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Poetry.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,12 +175,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "94ed6a5c6d4a580f",
   "lastOpenFiles": [
+    "category-folder/Hello Poems.md",
     "index.md",
-    "category-folder/Poetry.md",
-    "Poetry & Prose/index.md",
-    "Poetry & Prose/Some note.md",
+    "Hurricane.gif",
+    "category-folder/Poetry/Zenlightenment.md",
+    "category-folder/Poetry/I'd Love (Not To Judge).md",
+    "category-folder/Poetry/A Stolen Breath Of Relief.md",
+    "category-folder/Poetry/The Good, The Bad, And The Psychotic.md",
+    "category-folder/Poetry/Criticism Throes(, Seven Of Those).md",
+    "category-folder/Poetry/The Revelator.md",
+    "category-folder/Poetry/For The Scientist, Advice.md",
+    "category-folder/Poetry/Triumvirate Supreme.md",
+    "category-folder/Poetry/Disconekt.md",
+    "category-folder/Poetry/⁂ (Collaboration with CFF).md",
+    "category-folder/Poetry/※ (Collaboration with CFF).md",
+    "category-folder/Poetry/μFiction.md",
+    "category-folder/Poetry/Æclipse.md",
+    "category-folder/Poetry/Zerotonin.md",
+    "category-folder/Poetry/Zero Cool.md",
+    "category-folder/Poetry/Zenith.md",
+    "category-folder/Poetry/Your Moments.md",
+    "category-folder/Poetry/You Stay Classy Debutante.md",
+    "category-folder/Poetry/Yearning For A Return To Normality.md",
+    "category-folder/Poetry/XOR.md",
+    "category-folder/Poetry/X Marks The Spot (Venturous Prelude).md",
+    "category-folder/Poetry/X Is The New Y (Venturous Conclusion).md",
+    "category-folder/Poetry/World Of Narc.md",
+    "category-folder/Poetry",
     "category-folder"
   ]
 }
