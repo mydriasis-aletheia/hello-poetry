@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Outfit",
-        body: "Playfair",
+        body: "Open Sans",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -66,6 +66,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      Plugin.HardLineBreaks()
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
