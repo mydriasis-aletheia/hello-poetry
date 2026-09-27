@@ -2,6 +2,6 @@
 title: My GitHub Pages Notebook!
 ---
 
-Hello world!
+Hello poetry!
 
-Write some words here!
+My old work will be re-hosted here.
