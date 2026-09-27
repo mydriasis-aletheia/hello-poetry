@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/Poetry/Epoch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Epoch"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/Poetry/Epoch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/Poetry/Epoch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/Poetry/Epoch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""

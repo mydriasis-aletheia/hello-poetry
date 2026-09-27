@@ -1348,40 +1348,71 @@
 # anachronist poems
 ## advice
 [[Advice For Nightclubs And Pubs]]
+
 [[For The Scientist, Advice]]
+
 ## bad taste
 [[The Revelator]]
+
 ## ill-health
 [[I'm Untitled Too]]
+
 [[I Untitled Th(r)ee]]
+
 [[We Untitled (F)our Past]]
+
 [[Home For Misanthropes]]
+
 [[Soothing My Bruised Psyche]]
+
 ## questionably-written
 [[A Stolen Breath Of Relief]]
+
 [[Adjudicating Faith]]
+
 [[Bathe]]
+
 [[Bleached Immolation]]
+
 [[Carnival]]
+
 [[Disequalibrium]]
+
 [[Enumerations Of The Ecstatic (How I Treat With Depression(slash)Soul Meandering)]]
+
 [[Estranged]]
+
 [[Hereafter]]
+
 [[Pathogenic Vocality]]
+
 [[Put Your Hood Up]]
+
 [[Mediation|Mediation]]
+
 [[I'd Love (Not To Judge)]]
+
 [[Existential Tension]]
+
 [[Metaphysical Transgression]]
+
 [[Of Two Minds]]
+
 [[Offering]]
+
 [[Omnipresent Glia]]
+
 [[Over;Under-{De;In}flated]]
+
 [[The Good, The Bad, And The Psychotic]]
+
 [[Thread In The Seems]]
+
 [[Your Moments]]
+
 [[Zenlightenment]]
 
 # end
-"...if people were rain,"...
+"if people were rain,"
+
 ![[Hurricane.gif]]
