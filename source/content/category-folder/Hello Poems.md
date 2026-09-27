@@ -1,6 +1,6 @@
 # 2026
 
-**Sep 22** [[Media/GitHub/hello-poetry/source/content/category-folder/Poetry/Epoch]]
+**Sep 22** [[Epoch]]
 
 **Aug 09** [[Æclipse]]
 

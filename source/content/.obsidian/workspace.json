@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "category-folder/Hello Poems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Hello Poems"
             }
           }
         ]
@@ -174,11 +174,11 @@
   },
   "active": "c3306c6a4866c3eb",
   "lastOpenFiles": [
+    "category-folder/Poetry/Epoch.md",
     "category-folder/Hello Poems.md",
+    "index.md",
     "category-folder/Poetry/Untitled.md",
     "category-folder/Poetry/Letter from Menoeceus.md",
-    "category-folder/Poetry/Epoch.md",
-    "index.md",
     "Hurricane.gif",
     "category-folder/Poetry/Zenlightenment.md",
     "category-folder/Poetry/I'd Love (Not To Judge).md",
